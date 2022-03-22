@@ -9,7 +9,7 @@
   
   inputs.src-c2nim-master.flake = false;
   inputs.src-c2nim-master.owner = "nim-lang";
-  inputs.src-c2nim-master.ref   = "refs/heads/master";
+  inputs.src-c2nim-master.ref   = "master";
   inputs.src-c2nim-master.repo  = "c2nim";
   inputs.src-c2nim-master.type  = "github";
   
