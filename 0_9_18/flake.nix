@@ -9,7 +9,7 @@
   
   inputs.src-c2nim-0_9_18.flake = false;
   inputs.src-c2nim-0_9_18.owner = "nim-lang";
-  inputs.src-c2nim-0_9_18.ref   = "refs/tags/0.9.18";
+  inputs.src-c2nim-0_9_18.ref   = "0_9_18";
   inputs.src-c2nim-0_9_18.repo  = "c2nim";
   inputs.src-c2nim-0_9_18.type  = "github";
   
