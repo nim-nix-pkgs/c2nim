@@ -1,8 +1,0 @@
-{
-  "desc": "c2nim is a tool to translate Ansi C code to Nim.",
-  "license": "MIT",
-  "name": "c2nim",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/nim-lang/c2nim",
-  "version": "master"
-}
