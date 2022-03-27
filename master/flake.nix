@@ -11,6 +11,7 @@
   inputs.src-c2nim-master.ref   = "refs/heads/master";
   inputs.src-c2nim-master.owner = "nim-lang";
   inputs.src-c2nim-master.repo  = "c2nim";
+  inputs.src-c2nim-master.dir   = "";
   inputs.src-c2nim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
