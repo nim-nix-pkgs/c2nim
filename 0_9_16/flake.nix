@@ -11,7 +11,6 @@
   inputs.src-c2nim-0_9_16.ref   = "refs/tags/0.9.16";
   inputs.src-c2nim-0_9_16.owner = "nim-lang";
   inputs.src-c2nim-0_9_16.repo  = "c2nim";
-  inputs.src-c2nim-0_9_16.dir   = "";
   inputs.src-c2nim-0_9_16.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
